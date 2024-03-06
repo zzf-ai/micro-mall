@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Mall-Common/common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Common/common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Common/common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Common/common-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Common/common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Common/common-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Client/service-cart-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Client/service-cart-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Client/service-order-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Client/service-product-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Client/service-product-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Client/service-user-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Client/service-user-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service-Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-cart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-pay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-user-info/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mall-Service/service-user-info/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

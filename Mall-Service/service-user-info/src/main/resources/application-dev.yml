@@ -1,0 +1,27 @@
+server:
+  port: 8512
+
+spring:
+  application:
+    name: service-user
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  # 配置数据库连接信息
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mall?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+  # Redis的相关配置
+  redis:
+    host: localhost
+    port: 6379
+    #数据库
+    database: 0
+
+mybatis:
+  config-location: classpath:mybatis-config.xml
+  mapper-locations: classpath:/com.zzf.user.mapper/*/*.xml
